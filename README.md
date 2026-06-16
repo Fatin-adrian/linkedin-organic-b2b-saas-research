@@ -70,6 +70,20 @@ LinkedIn posts may be **manually curated** due to platform access limitations (l
 
 Do not paste content that violates platform terms or misattributes authorship.
 
+## Tools & Workflow
+
+This repository is built using GitHub, Git, Cursor, and AI-assisted coding/research tools. The workflow is intentionally structured to show both research judgment and technical organization.
+
+Planned workflow:
+
+1. Use Cursor/Codex to maintain the repository structure, Markdown templates, and research organization.
+2. Use browser research to verify expert identity, role, company context, and platform activity.
+3. Use API/tool-assisted methods where available for YouTube transcripts or long-form video content.
+4. Manually curate LinkedIn posts when platform access limitations prevent reliable export.
+5. Use AI assistance for summarization and pattern extraction, while keeping source links, authorship, and dates manually verified.
+
+This project prioritizes high-signal sources, verified experts, and playbook-ready insights over collecting a large number of generic links.
+
 ## Next Steps: Turning Research into a Playbook
 
 After the 10-expert roster and source library are complete:
