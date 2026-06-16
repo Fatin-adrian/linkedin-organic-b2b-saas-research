@@ -14,6 +14,38 @@ Prioritize people who actively practice, teach, or demonstrate LinkedIn organic 
 
 Do not add a candidate to the final roster until their identity, role, relevance, and recent content are verified with credible links.
 
+## Discovery Search Plan
+
+### Search Channels
+
+- LinkedIn search
+- Google search
+- YouTube search
+- SaaS communities, newsletters, and podcasts
+- Cross-references from credible practitioners
+
+### Search Query Examples
+
+- `LinkedIn organic content strategy B2B SaaS`
+- `founder-led LinkedIn content`
+- `B2B SaaS demand generation LinkedIn`
+- `SaaS content marketing practitioners`
+- `LinkedIn thought leadership SaaS founders`
+- `organic LinkedIn strategy startups`
+- `site:linkedin.com/in B2B SaaS LinkedIn content strategy`
+- `site:youtube.com B2B SaaS LinkedIn organic strategy`
+
+### Candidate Validation Workflow
+
+1. Find candidate.
+2. Verify role/company.
+3. Verify B2B SaaS relevance.
+4. Check recent LinkedIn activity.
+5. Collect at least one source link.
+6. Decide whether to add to final roster.
+
+Candidates should not be moved to `research/sources.md` until they are verified with credible evidence and relevant recent content.
+
 ## Validation Status Labels
 
 - `Pending`
