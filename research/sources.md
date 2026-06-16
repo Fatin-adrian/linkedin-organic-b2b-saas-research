@@ -9,7 +9,7 @@ Track up to **10 verified experts** who practice LinkedIn organic content strate
 - Verifiable identity (real name, role, company or client context)
 - Teachable patterns (repeatable formats, positioning, or distribution approach)
 
-**Status key:** `⬜ Pending` · `🔍 Validating` · `✅ Added` · `❌ Rejected`
+**Status key:** `Pending` | `Validating` | `Added` | `Rejected`
 
 ---
 
@@ -17,16 +17,16 @@ Track up to **10 verified experts** who practice LinkedIn organic content strate
 
 | # | Expert Name | Role / Company | Primary Platform | Why Selected | Source Links | Content Themes | Notes |
 |---|-------------|----------------|------------------|--------------|--------------|----------------|-------|
-| 1 | _TBD_ | | LinkedIn | | | | Status: ⬜ Pending |
-| 2 | _TBD_ | | LinkedIn | | | | Status: ⬜ Pending |
-| 3 | _TBD_ | | LinkedIn | | | | Status: ⬜ Pending |
-| 4 | _TBD_ | | LinkedIn | | | | Status: ⬜ Pending |
-| 5 | _TBD_ | | LinkedIn | | | | Status: ⬜ Pending |
-| 6 | _TBD_ | | LinkedIn | | | | Status: ⬜ Pending |
-| 7 | _TBD_ | | LinkedIn | | | | Status: ⬜ Pending |
-| 8 | _TBD_ | | LinkedIn | | | | Status: ⬜ Pending |
-| 9 | _TBD_ | | LinkedIn | | | | Status: ⬜ Pending |
-| 10 | _TBD_ | | LinkedIn | | | | Status: ⬜ Pending |
+| 1 | _TBD_ | | LinkedIn | | | | Status: Pending |
+| 2 | _TBD_ | | LinkedIn | | | | Status: Pending |
+| 3 | _TBD_ | | LinkedIn | | | | Status: Pending |
+| 4 | _TBD_ | | LinkedIn | | | | Status: Pending |
+| 5 | _TBD_ | | LinkedIn | | | | Status: Pending |
+| 6 | _TBD_ | | LinkedIn | | | | Status: Pending |
+| 7 | _TBD_ | | LinkedIn | | | | Status: Pending |
+| 8 | _TBD_ | | LinkedIn | | | | Status: Pending |
+| 9 | _TBD_ | | LinkedIn | | | | Status: Pending |
+| 10 | _TBD_ | | LinkedIn | | | | Status: Pending |
 
 ---
 
@@ -35,10 +35,10 @@ Track up to **10 verified experts** who practice LinkedIn organic content strate
 | Column | What to record |
 |--------|----------------|
 | **Expert Name** | Full name as shown on primary profile |
-| **Role / Company** | Current title and company (or “Independent / Agency — SaaS clients”) |
+| **Role / Company** | Current title and company (or "Independent / Agency - SaaS clients") |
 | **Primary Platform** | Usually LinkedIn; note secondary (YouTube, newsletter, podcast) if relevant |
-| **Why Selected** | 1–2 sentences on fit for B2B SaaS organic LinkedIn research |
-| **Source Links** | Profile URL + 2–3 representative content URLs (posts, talks, articles) |
+| **Why Selected** | 1-2 sentences on fit for B2B SaaS organic LinkedIn research |
+| **Source Links** | Profile URL + 2-3 representative content URLs (posts, talks, articles) |
 | **Content Themes** | Recurring topics, formats, and angles observed |
 | **Notes** | Validation date, gaps, contradictions, or follow-up items |
 
@@ -46,7 +46,7 @@ Track up to **10 verified experts** who practice LinkedIn organic content strate
 
 ## Rejected / Watchlist (optional)
 
-Use this section for candidates that did not meet criteria — avoids re-researching the same names.
+Use this section for candidates that did not meet criteria - avoids re-researching the same names.
 
 | Name | Reason not selected | Date |
 |------|---------------------|------|

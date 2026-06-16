@@ -24,14 +24,14 @@ Recurring tactics, formats, or beliefs that appear across multiple experts or po
 
 ### Pattern categories (check as populated)
 
-- [ ] **Positioning & POV** — how experts frame category, ICP, and differentiation
-- [ ] **Content pillars** — recurring topic buckets (education, proof, story, opinion)
-- [ ] **Post formats** — text-only, carousels, video, polls, document posts
-- [ ] **Hooks & structure** — opening lines, narrative arc, CTAs
-- [ ] **Cadence & consistency** — posting frequency, batching, repurposing
-- [ ] **Engagement** — comments, DMs, tagging, community replies
-- [ ] **Founder vs. brand** — personal profile vs. company page dynamics
-- [ ] **Measurement** — how success is described (impressions, pipeline, demos, hires)
+- [ ] **Positioning & POV** - how experts frame category, ICP, and differentiation
+- [ ] **Content pillars** - recurring topic buckets (education, proof, story, opinion)
+- [ ] **Post formats** - text-only, carousels, video, polls, document posts
+- [ ] **Hooks & structure** - opening lines, narrative arc, CTAs
+- [ ] **Cadence & consistency** - posting frequency, batching, repurposing
+- [ ] **Engagement** - comments, DMs, tagging, community replies
+- [ ] **Founder vs. brand** - personal profile vs. company page dynamics
+- [ ] **Measurement** - how success is described (impressions, pipeline, demos, hires)
 
 ---
 
@@ -127,15 +127,15 @@ Unresolved items to investigate with additional sources or primary testing.
 
 Working table of contents for the final deliverable. Refine as research progresses.
 
-1. **Introduction** — scope, audience, limitations
-2. **When LinkedIn organic fits B2B SaaS** — stage, motion, resources
-3. **Expert landscape** — summary of 10 practitioners (from `sources.md`)
-4. **Core patterns** — synthesized from Emerging Patterns
-5. **Content system** — pillars, calendar, formats
-6. **Execution checklist** — weekly workflow
-7. **Measurement** — leading vs. lagging indicators
-8. **Anti-patterns** — what to avoid
-9. **Appendix** — source index and captured examples
+1. **Introduction** - scope, audience, limitations
+2. **When LinkedIn organic fits B2B SaaS** - stage, motion, resources
+3. **Expert landscape** - summary of 10 practitioners (from `sources.md`)
+4. **Core patterns** - synthesized from Emerging Patterns
+5. **Content system** - pillars, calendar, formats
+6. **Execution checklist** - weekly workflow
+7. **Measurement** - leading vs. lagging indicators
+8. **Anti-patterns** - what to avoid
+9. **Appendix** - source index and captured examples
 
 ---
 

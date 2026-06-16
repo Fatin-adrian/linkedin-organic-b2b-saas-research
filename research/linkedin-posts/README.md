@@ -13,7 +13,7 @@ Create one file per post (or per expert batch) using this structure:
 ```markdown
 # Post capture
 
-- **Expert:** [Name — link to sources.md row]
+- **Expert:** [Name - link to sources.md row]
 - **Source URL:** [LinkedIn post URL]
 - **Captured:** YYYY-MM-DD
 - **Format:** text | carousel | video | poll | document | other
@@ -21,7 +21,7 @@ Create one file per post (or per expert batch) using this structure:
 - **Hook (first line or slide):**
 - **Structure notes:**
 - **CTA:**
-- **Engagement signals (if visible):** impressions / reactions / comments — optional
+- **Engagement signals (if visible):** impressions / reactions / comments - optional
 - **Takeaways for playbook:**
 
 ## Content
@@ -43,4 +43,4 @@ Example: `jane-doe_2026-06-15_carousel-pipeline-metrics.md`
 
 ## Manual curation note
 
-LinkedIn may restrict automated export. Summaries are acceptable when full text cannot be saved — always include URL and capture date.
+LinkedIn may restrict automated export. Summaries are acceptable when full text cannot be saved - always include URL and capture date.

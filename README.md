@@ -6,7 +6,7 @@ Research repository for the 100Hires marketing research project (step 2).
 
 **LinkedIn organic content strategy for B2B SaaS**
 
-This project studies how B2B SaaS companies and practitioners build pipeline, brand, and trust through non-paid LinkedIn content — posts, carousels, comments, and founder-led narratives — without relying on ads or outbound automation.
+This project studies how B2B SaaS companies and practitioners build pipeline, brand, and trust through non-paid LinkedIn content - posts, carousels, comments, and founder-led narratives - without relying on ads or outbound automation.
 
 ## Why This Topic Matters for B2B SaaS
 
@@ -22,31 +22,31 @@ Build a curated research base of **10 high-quality experts** who actively practi
 
 Success criteria:
 
-- Experts are real, verifiable practitioners — not invented names or unverified accounts.
+- Experts are real, verifiable practitioners - not invented names or unverified accounts.
 - Sources are documented with links and notes in `research/sources.md`.
 - Content is collected and tagged in structured folders for later analysis.
 - Insights are captured as emerging patterns, not premature conclusions.
 
 ## Research Methodology
 
-1. **Define selection criteria** — Prioritize practitioners with demonstrated B2B SaaS experience and consistent LinkedIn organic output (founders, marketers, operators, or agency leaders with SaaS clients).
-2. **Discover candidates** — Use LinkedIn search, SaaS communities, podcast guest lists, conference speakers, and cross-references from credible posts (no fabricated experts or links).
-3. **Validate each expert** — Confirm role/company, platform activity, and relevance before adding to `research/sources.md`.
-4. **Collect primary material** — Save representative LinkedIn posts, transcripts, articles, and talks into the appropriate `/research/` subfolders.
-5. **Extract patterns** — Log recurring themes, formats, hooks, cadence, and positioning in `research/insights.md`.
-6. **Identify gaps** — Track open questions and contradictions rather than forcing a single “best” approach.
+1. **Define selection criteria** - Prioritize practitioners with demonstrated B2B SaaS experience and consistent LinkedIn organic output (founders, marketers, operators, or agency leaders with SaaS clients).
+2. **Discover candidates** - Use LinkedIn search, SaaS communities, podcast guest lists, conference speakers, and cross-references from credible posts (no fabricated experts or links).
+3. **Validate each expert** - Confirm role/company, platform activity, and relevance before adding to `research/sources.md`.
+4. **Collect primary material** - Save representative LinkedIn posts, transcripts, articles, and talks into the appropriate `/research/` subfolders.
+5. **Extract patterns** - Log recurring themes, formats, hooks, cadence, and positioning in `research/insights.md`.
+6. **Identify gaps** - Track open questions and contradictions rather than forcing a single "best" approach.
 
 ## Repository Structure
 
 ```
 /
-├── README.md                          # Project overview and workflow
-└── research/
-    ├── sources.md                     # Expert roster and source tracking (10 slots)
-    ├── insights.md                    # Synthesized patterns and playbook ideas
-    ├── linkedin-posts/                # Curated LinkedIn post captures
-    ├── youtube-transcripts/           # Video / podcast transcript notes
-    └── other/                         # Articles, threads, decks, misc. references
+- README.md                          # Project overview and workflow
+- research/
+  - sources.md                       # Expert roster and source tracking (10 slots)
+  - insights.md                      # Synthesized patterns and playbook ideas
+  - linkedin-posts/                  # Curated LinkedIn post captures
+  - youtube-transcripts/             # Video / podcast transcript notes
+  - other/                           # Articles, threads, decks, misc. references
 ```
 
 ## Data Collection Approach
@@ -88,13 +88,13 @@ This project prioritizes high-signal sources, verified experts, and playbook-rea
 
 After the 10-expert roster and source library are complete:
 
-1. **Cluster by motion** — Group insights by company stage (early vs. scale), GTM (PLG, sales-led, hybrid), and primary persona (founder-led vs. marketing-led).
-2. **Map content pillars** — Identify recurring themes (product education, customer proof, contrarian takes, build-in-public, etc.).
-3. **Extract repeatable formats** — Document post structures, carousel patterns, comment strategies, and publishing cadence that appear across multiple experts.
-4. **Define measurement** — Note how practitioners tie organic LinkedIn activity to pipeline, demos, hires, or brand (where stated explicitly).
-5. **Draft playbook sections** — ICP positioning → content pillars → weekly workflow → examples → metrics → common mistakes.
-6. **Validate with gaps** — Use open questions in `research/insights.md` to flag areas needing more sources or primary testing.
+1. **Cluster by motion** - Group insights by company stage (early vs. scale), GTM (PLG, sales-led, hybrid), and primary persona (founder-led vs. marketing-led).
+2. **Map content pillars** - Identify recurring themes (product education, customer proof, contrarian takes, build-in-public, etc.).
+3. **Extract repeatable formats** - Document post structures, carousel patterns, comment strategies, and publishing cadence that appear across multiple experts.
+4. **Define measurement** - Note how practitioners tie organic LinkedIn activity to pipeline, demos, hires, or brand (where stated explicitly).
+5. **Draft playbook sections** - ICP positioning -> content pillars -> weekly workflow -> examples -> metrics -> common mistakes.
+6. **Validate with gaps** - Use open questions in `research/insights.md` to flag areas needing more sources or primary testing.
 
 ---
 
-*This repository is a living research base. Templates and empty slots are intentional — populate with verified sources only.*
+*This repository is a living research base. Templates and empty slots are intentional - populate with verified sources only.*

@@ -4,7 +4,7 @@ Transcripts, summaries, and timestamped notes from video or podcast content by v
 
 ## Purpose
 
-Capture long-form teaching that complements LinkedIn posts — interviews, workshops, SaaS marketing talks.
+Capture long-form teaching that complements LinkedIn posts - interviews, workshops, SaaS marketing talks.
 
 ## Capture template
 
@@ -12,7 +12,7 @@ Capture long-form teaching that complements LinkedIn posts — interviews, works
 # Transcript / summary
 
 - **Title:**
-- **Expert:** [Name — link to sources.md row]
+- **Expert:** [Name - link to sources.md row]
 - **Source URL:**
 - **Platform:** YouTube | podcast | webinar | other
 - **Published:** YYYY-MM-DD

@@ -4,7 +4,7 @@ Articles, newsletters, slide decks, threads, and miscellaneous references that s
 
 ## Purpose
 
-Centralize written long-form material — blog posts, Substack essays, conference slides, PDFs — with clear attribution.
+Centralize written long-form material - blog posts, Substack essays, conference slides, PDFs - with clear attribution.
 
 ## Capture template
 
@@ -12,7 +12,7 @@ Centralize written long-form material — blog posts, Substack essays, conferenc
 # Source note
 
 - **Title:**
-- **Author / expert:** [Name — link to sources.md row if applicable]
+- **Author / expert:** [Name - link to sources.md row if applicable]
 - **Source URL:**
 - **Type:** article | newsletter | deck | thread | PDF | other
 - **Published:** YYYY-MM-DD
