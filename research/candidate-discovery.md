@@ -62,7 +62,7 @@ Important rules:
 
 | Candidate Name | Why Considered | Current Status | Manual Validation Needed |
 |----------------|----------------|----------------|--------------------------|
-| Amanda Natividad | Strong fit for zero-click content, LinkedIn algorithm thinking, and audience education. | Validating | Verify B2B SaaS relevance, recent LinkedIn activity, and representative post. |
+| Amanda Natividad | Strong fit for zero-click content, LinkedIn algorithm thinking, and audience education. | Strong candidate | Continue manual validation before adding to final roster. |
 | Udi Ledergor | Strong B2B SaaS brand/category creation background through Gong. | Validating | Verify current role, recent LinkedIn activity, and source links. |
 | Devin Reed | Strong B2B SaaS content operator with Gong and Clari background. | Validating | Verify current role, recent LinkedIn activity, and representative post. |
 | Kaylee Edmondson | Strong demand generation and B2B SaaS operator angle. | Validating | Verify current role, SaaS relevance, and LinkedIn activity. |
@@ -72,6 +72,48 @@ Important rules:
 | Ashley Faus | Strong thought leadership and audience-centered LinkedIn strategy perspective. | Validating | Verify current role, LinkedIn activity, and thought leadership source. |
 | Anthony Pierri | Strong B2B SaaS positioning and LinkedIn content framework perspective. | Validating | Verify representative post and YouTube/source evidence. |
 | Gaetano DiNardi | Strong SaaS growth, topical authority, and content strategy perspective. | Validating | Verify SaaS relevance, LinkedIn activity, and playbook usefulness. |
+
+### Amanda Natividad - Manual Validation Note
+
+**Current status:** Strong candidate
+
+**Current role/company:** Founder and Co-author, Zero Click Marketing | Chief Evangelist, SparkToro
+
+**Representative LinkedIn post:**
+
+- **Title/context:** "How would you start a marketing strategy from scratch?"
+- **Source URL:** https://www.linkedin.com/posts/amandanat_how-would-you-start-a-marketing-strategy-share-7472780091450826752-j-O1/
+
+**Why this LinkedIn post is relevant:**
+
+The post is useful because it frames marketing strategy around the company's growth motion, such as discovery-led, product-led, or sales-led growth. This is relevant for B2B SaaS because organic content should support how the business actually acquires, educates, and converts customers.
+
+**External source:**
+
+- **YouTube / Databox Move the Needle:** "Zero-Click Content Isn't the Enemy of ROI - It's the Future"
+- **Source URL:** https://www.youtube.com/watch?v=halAVUDc5F8
+
+**Source note:**
+
+The video notes were generated using an AI-assisted YouTube/Copilot summary and should be treated as supporting notes, not a full transcript.
+
+**Key insight:**
+
+Amanda's zero-click content framework suggests that marketers should deliver value directly inside the platform instead of forcing every audience interaction into an external click.
+
+**Playbook usefulness for 100Hires:**
+
+100Hires can use LinkedIn as a trust-building and buyer-education channel, not only as a traffic channel. Instead of pushing every post toward a demo or website click, LinkedIn content can educate founders, recruiters, and hiring managers about hiring mistakes, recruiting workflows, ATS evaluation, candidate pipeline problems, and practical hiring frameworks.
+
+**Decision:** Strong candidate
+
+**Reason:**
+
+Amanda is a strong candidate because her zero-click content framework, LinkedIn activity, and SparkToro/Zero Click Marketing background are directly useful for building a practical LinkedIn organic content playbook for B2B SaaS.
+
+**Final roster note:**
+
+Do not move Amanda to `research/sources.md` until final manual validation is complete.
 
 ### Strong Backup Candidates
 
