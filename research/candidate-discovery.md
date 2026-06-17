@@ -69,7 +69,7 @@ Important rules:
 | Ross Simmonds | Strong content distribution and organic growth perspective for B2B/SaaS. | Strong candidate | Continue manual validation before adding to final roster. |
 | Kyle Poyar | Strong GTM and LinkedIn creator-distribution perspective. | Strong candidate | Continue manual validation before adding to final roster. |
 | Ty Magnin | Strong B2B startup and founder-led LinkedIn strategy perspective. | Strong candidate | Continue manual validation before adding to final roster. |
-| Ashley Faus | Strong thought leadership and audience-centered LinkedIn strategy perspective. | Validating | Verify current role, LinkedIn activity, and thought leadership source. |
+| Ashley Faus | Strong thought leadership and audience-centered LinkedIn strategy perspective. | Strong candidate | Continue manual validation before adding to final roster. |
 | Anthony Pierri | Strong B2B SaaS positioning and LinkedIn content framework perspective. | Validating | Verify representative post and YouTube/source evidence. |
 | Gaetano DiNardi | Strong SaaS growth, topical authority, and content strategy perspective. | Validating | Verify SaaS relevance, LinkedIn activity, and playbook usefulness. |
 
@@ -261,6 +261,27 @@ Do not move Udi to `research/sources.md` until final roster selection is complet
 **Decision:** Strong candidate
 
 **Final roster note:** Do not move Ty to `research/sources.md` until final roster selection is complete.
+
+### Ashley Faus - Manual Validation Note
+
+**Status:** Strong candidate
+
+**Current role/company:** Marketing Leader at Atlassian; Author of Human-Centered Marketing; Keynote Speaker; Stanford Instructor.
+
+**Why relevant:** Ashley is relevant because her work focuses on human-centered marketing, thought leadership, audience understanding, product marketing, positioning, and messaging. Her perspective is useful for B2B SaaS LinkedIn strategy because strong organic content should help audiences think differently, build trust, and connect marketing ideas to real customer understanding.
+
+**Evidence captured:**
+
+- **Representative LinkedIn article:** "Four Pillars of Thought Leadership"
+- **Source URL:** https://www.linkedin.com/pulse/four-pillars-thought-leadership-ashley-faus/
+- **External source:** Ashley Faus official website
+- **Source URL:** https://ashleyfaus.com
+
+**Playbook usefulness:** Ashley's content is useful for 100Hires because it shows how LinkedIn thought leadership can move beyond generic posting into audience-centered education. For 100Hires, this can support a LinkedIn playbook where posts help founders, recruiters, and hiring managers understand hiring problems, rethink recruiting workflows, and trust the brand as a helpful expert rather than just a software vendor.
+
+**Decision:** Strong candidate
+
+**Final roster note:** Do not move Ashley to `research/sources.md` until final roster selection is complete.
 
 ### Strong Backup Candidates
 
