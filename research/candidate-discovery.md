@@ -63,7 +63,7 @@ Important rules:
 | Candidate Name | Why Considered | Current Status | Manual Validation Needed |
 |----------------|----------------|----------------|--------------------------|
 | Amanda Natividad | Strong fit for zero-click content, LinkedIn algorithm thinking, and audience education. | Strong candidate | Continue manual validation before adding to final roster. |
-| Udi Ledergor | Strong B2B SaaS brand/category creation background through Gong. | Validating | Verify current role, recent LinkedIn activity, and source links. |
+| Udi Ledergor | Strong B2B SaaS brand/category creation background through Gong. | Strong candidate | Continue manual validation before adding to final roster. |
 | Devin Reed | Strong B2B SaaS content operator with Gong and Clari background. | Validating | Verify current role, recent LinkedIn activity, and representative post. |
 | Kaylee Edmondson | Strong demand generation and B2B SaaS operator angle. | Validating | Verify current role, SaaS relevance, and LinkedIn activity. |
 | Ross Simmonds | Strong content distribution and organic growth perspective for B2B/SaaS. | Validating | Verify SaaS relevance, LinkedIn activity, and representative source. |
@@ -114,6 +114,48 @@ Amanda is a strong candidate because her zero-click content framework, LinkedIn 
 **Final roster note:**
 
 Do not move Amanda to `research/sources.md` until final manual validation is complete.
+
+### Udi Ledergor - Manual Validation Note
+
+**Current status:** Strong candidate
+
+**Current role/company:** Board Director & Trustee | Chief Evangelist & Former CMO, Gong | Category Creator & GTM Advisor | Bestselling Author
+
+**Representative LinkedIn post:**
+
+- **Title/context:** "The Creator Economy for B2B"
+- **Source URL:** https://www.linkedin.com/posts/udiledergor_i-recently-joined-marcus-sherwin-on-notjustads-ugcPost-7472658089377226753-kkOV/
+
+**Why this LinkedIn post is relevant:**
+
+The post is useful because it discusses category creation, thought leadership, and why most B2B marketing feels boring. This is relevant for B2B SaaS because organic LinkedIn content should help a company build a clear point of view, educate the market, and create trust instead of only promoting product features.
+
+**External source:**
+
+- **Spotify / NotJustAds:** "EP 61: Employee #13 at Gong: Udi Ledergor on Building a Category from Zero"
+- **Source URL:** https://open.spotify.com/episode/2cMxro716BvTlrcdAW2a62
+
+**Source note:**
+
+The Spotify episode notes were generated using an AI-assisted Copilot summary and should be treated as supporting notes, not a full transcript.
+
+**Key insight:**
+
+Udi's work suggests that B2B SaaS LinkedIn content should build category understanding, trust, and thought leadership around real ICP problems instead of rushing into abstract category creation or generic product updates.
+
+**Playbook usefulness for 100Hires:**
+
+100Hires can use LinkedIn to educate founders, recruiters, and hiring managers about real recruiting workflow problems, hiring pipeline friction, candidate follow-up gaps, and why better hiring systems matter. Udi's perspective is useful for creating content that combines educational posts, category POV, emotional storytelling, and community-driven trust.
+
+**Decision:** Strong candidate
+
+**Reason:**
+
+Udi is a strong candidate because his Gong background, category creation experience, recent LinkedIn activity, and external podcast source are directly useful for building a practical LinkedIn organic content playbook for B2B SaaS.
+
+**Final roster note:**
+
+Do not move Udi to `research/sources.md` until final roster selection is complete.
 
 ### Strong Backup Candidates
 
