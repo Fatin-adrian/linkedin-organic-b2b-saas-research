@@ -70,7 +70,7 @@ Important rules:
 | Kyle Poyar | Strong GTM and LinkedIn creator-distribution perspective. | Strong candidate | Continue manual validation before adding to final roster. |
 | Ty Magnin | Strong B2B startup and founder-led LinkedIn strategy perspective. | Strong candidate | Continue manual validation before adding to final roster. |
 | Ashley Faus | Strong thought leadership and audience-centered LinkedIn strategy perspective. | Strong candidate | Continue manual validation before adding to final roster. |
-| Anthony Pierri | Strong B2B SaaS positioning and LinkedIn content framework perspective. | Validating | Verify representative post and YouTube/source evidence. |
+| Anthony Pierri | Strong B2B SaaS positioning and LinkedIn content framework perspective. | Strong candidate | Continue manual validation before adding to final roster. |
 | Gaetano DiNardi | Strong SaaS growth, topical authority, and content strategy perspective. | Validating | Verify SaaS relevance, LinkedIn activity, and playbook usefulness. |
 
 ### Amanda Natividad - Manual Validation Note
@@ -282,6 +282,27 @@ Do not move Udi to `research/sources.md` until final roster selection is complet
 **Decision:** Strong candidate
 
 **Final roster note:** Do not move Ashley to `research/sources.md` until final roster selection is complete.
+
+### Anthony Pierri - Manual Validation Note
+
+**Status:** Strong candidate
+
+**Current role/company:** Co-founder of FletchPMM; B2B homepage positioning and product marketing consultant.
+
+**Why relevant:** Anthony is relevant because his work focuses on B2B software positioning, homepage messaging, ICP clarity, product marketing, and helping companies explain their product clearly. His perspective is useful for B2B SaaS LinkedIn strategy because organic content should not only get attention, but also help buyers understand what the product is, who it is for, and why it matters.
+
+**Evidence captured:**
+
+- **Representative LinkedIn post:** "I've helped position over 500 companies, and have boiled it down to three core strategies"
+- **Source URL:** https://www.linkedin.com/posts/anthonypierri_ive-helped-position-over-500-companies-activity-7472299420932329472-Ql-H
+- **External source:** FletchPMM official website
+- **Source URL:** https://www.fletchpmm.com/
+
+**Playbook usefulness:** Anthony's content is useful for 100Hires because it shows how positioning and messaging clarity can shape better LinkedIn content. For 100Hires, this can support posts that clarify the target customer, explain hiring workflow pain points, compare 100Hires with familiar recruiting tool categories, and help buyers quickly understand why the product is relevant.
+
+**Decision:** Strong candidate
+
+**Final roster note:** Do not move Anthony to `research/sources.md` until final roster selection is complete.
 
 ### Strong Backup Candidates
 
