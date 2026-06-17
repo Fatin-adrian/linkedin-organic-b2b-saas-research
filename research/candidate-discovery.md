@@ -68,7 +68,7 @@ Important rules:
 | Kaylee Edmondson | Strong demand generation and B2B SaaS operator angle. | Strong candidate | Continue manual validation before adding to final roster. |
 | Ross Simmonds | Strong content distribution and organic growth perspective for B2B/SaaS. | Strong candidate | Continue manual validation before adding to final roster. |
 | Kyle Poyar | Strong GTM and LinkedIn creator-distribution perspective. | Strong candidate | Continue manual validation before adding to final roster. |
-| Ty Magnin | Strong B2B startup and founder-led LinkedIn strategy perspective. | Validating | Verify LinkedIn playbook source and recent activity. |
+| Ty Magnin | Strong B2B startup and founder-led LinkedIn strategy perspective. | Strong candidate | Continue manual validation before adding to final roster. |
 | Ashley Faus | Strong thought leadership and audience-centered LinkedIn strategy perspective. | Validating | Verify current role, LinkedIn activity, and thought leadership source. |
 | Anthony Pierri | Strong B2B SaaS positioning and LinkedIn content framework perspective. | Validating | Verify representative post and YouTube/source evidence. |
 | Gaetano DiNardi | Strong SaaS growth, topical authority, and content strategy perspective. | Validating | Verify SaaS relevance, LinkedIn activity, and playbook usefulness. |
@@ -240,6 +240,27 @@ Do not move Udi to `research/sources.md` until final roster selection is complet
 **Decision:** Strong candidate
 
 **Final roster note:** Do not move Kyle to `research/sources.md` until final roster selection is complete.
+
+### Ty Magnin - Manual Validation Note
+
+**Status:** Strong candidate
+
+**Current role/company:** CEO at Animalz; builds high impact content marketing programs.
+
+**Why relevant:** Ty is relevant because Animalz focuses on content marketing programs and has a dedicated LinkedIn content service. The Animalz LinkedIn content page frames LinkedIn as a channel for building industry authority, engaging sales prospects, keeping a pulse on the market, personal branding, AI and human expertise, distribution and growth, and measurement and iteration.
+
+**Evidence captured:**
+
+- **Representative LinkedIn post:** "We started working with a Series C software platform back in October..."
+- **Source URL:** https://www.linkedin.com/posts/tylermagnin_seo-share-7293048903698956288-Z1ym/
+- **External source:** Animalz LinkedIn content service page
+- **Source URL:** https://www.animalz.co/services/linkedin-content
+
+**Playbook usefulness:** Ty's content is useful for 100Hires because it connects LinkedIn thought leadership with scalable content programs, authority building, sales prospect engagement, distribution, and measurement. For 100Hires, this can support a LinkedIn playbook where founder-led or expert-led posts educate hiring teams, validate market messaging, build trust, and turn content into a repeatable growth channel rather than random posting.
+
+**Decision:** Strong candidate
+
+**Final roster note:** Do not move Ty to `research/sources.md` until final roster selection is complete.
 
 ### Strong Backup Candidates
 
