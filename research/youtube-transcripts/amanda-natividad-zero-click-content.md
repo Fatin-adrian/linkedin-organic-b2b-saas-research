@@ -30,4 +30,4 @@ YouTube
 
 ## Evidence Status
 
-`Video or podcast evidence captured - detailed synthesis pending`
+`Video or podcast evidence note captured - not a full transcript`
