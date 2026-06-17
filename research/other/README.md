@@ -1,12 +1,16 @@
 # Other Sources
 
-Articles, newsletters, slide decks, threads, and miscellaneous references that support the research but are not LinkedIn posts or video transcripts.
+External evidence notes that support the approved expert roster, including websites, articles, Substack pages, and service pages.
 
 ## Purpose
 
-Centralize written long-form material - blog posts, Substack essays, conference slides, PDFs - with clear attribution.
+Centralize non-LinkedIn, non-video source notes with clear attribution for later synthesis.
 
-## Capture template
+## Current folder contents
+
+This folder contains concise external evidence notes for approved experts. These notes are not full source analyses yet.
+
+## Optional capture template
 
 ```markdown
 # Source note
@@ -39,7 +43,7 @@ Centralize written long-form material - blog posts, Substack essays, conference 
 
 ## Naming convention
 
-`{author-slug}_{YYYY-MM-DD}_{short-title}.md`
+`{expert-slug}-{source-slug}.md`
 
 ## File types
 

@@ -1,12 +1,16 @@
-# LinkedIn Posts
+# LinkedIn Evidence Notes
 
-Curated captures of organic LinkedIn content from verified experts listed in `../sources.md`.
+Curated LinkedIn evidence notes from the approved expert roster in `../sources.md`.
 
 ## Purpose
 
-Store representative posts for format analysis, hook patterns, CTAs, and topic clustering.
+Store representative LinkedIn evidence for later analysis of format, hooks, CTAs, content themes, and playbook usefulness.
 
-## Capture template
+## Current folder contents
+
+This folder contains one concise evidence note per approved expert. These notes are not full post transcripts or full strategic analysis yet.
+
+## Optional capture template
 
 Create one file per post (or per expert batch) using this structure:
 
@@ -37,9 +41,7 @@ Create one file per post (or per expert batch) using this structure:
 
 ## Naming convention
 
-`{expert-slug}_{YYYY-MM-DD}_{short-topic}.md`
-
-Example: `jane-doe_2026-06-15_carousel-pipeline-metrics.md`
+`{expert-slug}.md`
 
 ## Manual curation note
 

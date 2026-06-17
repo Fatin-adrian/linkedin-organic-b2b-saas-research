@@ -6,6 +6,8 @@ Use this file to track potential expert candidates before deciding whether they 
 
 This is a working validation log, not the final source list. Add candidates here first, review their relevance and evidence, then move only verified experts into the final roster.
 
+The final roster draft has since been selected in `research/sources.md`. This file remains as the validation audit trail for candidate discovery and selection.
+
 ## Selection Reminder
 
 Topic: **LinkedIn organic content strategy for B2B SaaS**
@@ -50,13 +52,15 @@ Candidates should not be moved to `research/sources.md` until they are verified 
 
 This section summarizes the initial candidate pool generated from Deep Research for the topic: **LinkedIn organic content strategy for B2B SaaS**.
 
-Important rules:
+Original validation rules:
 
-- This is NOT the final 10-expert roster.
-- Do NOT update `research/sources.md`.
-- Do NOT mark anyone as `Added to final roster` yet.
-- All candidates below must remain in validation until manually checked.
-- Do not invent additional links, posts, dates, or claims.
+- This was not the final 10-expert roster.
+- `research/sources.md` was not updated during initial candidate validation.
+- Candidates were not marked as `Added to final roster` during the validation stage.
+- Candidates remained in validation until manually checked.
+- No additional links, posts, dates, or claims were invented.
+
+These rules applied during initial candidate validation. The final roster draft now lives in `research/sources.md`.
 
 ### Top 10 Preliminary Candidates to Validate
 
@@ -113,7 +117,7 @@ Amanda is a strong candidate because her zero-click content framework, LinkedIn 
 
 **Final roster note:**
 
-Do not move Amanda to `research/sources.md` until final manual validation is complete.
+Amanda was selected for the final roster draft in `research/sources.md`; this note is retained as validation context.
 
 ### Udi Ledergor - Manual Validation Note
 
@@ -155,7 +159,7 @@ Udi is a strong candidate because his Gong background, category creation experie
 
 **Final roster note:**
 
-Do not move Udi to `research/sources.md` until final roster selection is complete.
+Udi was selected for the final roster draft in `research/sources.md`; this note is retained as validation context.
 
 ### Devin Reed - Manual Validation Note
 
@@ -176,7 +180,7 @@ Do not move Udi to `research/sources.md` until final roster selection is complet
 
 **Decision:** Strong candidate
 
-**Final roster note:** Do not move Devin to `research/sources.md` until final roster selection is complete.
+**Final roster note:** Devin was selected for the final roster draft in `research/sources.md`; this note is retained as validation context.
 
 ### Kaylee Edmondson - Manual Validation Note
 
@@ -197,7 +201,7 @@ Do not move Udi to `research/sources.md` until final roster selection is complet
 
 **Decision:** Strong candidate
 
-**Final roster note:** Do not move Kaylee to `research/sources.md` until final roster selection is complete.
+**Final roster note:** Kaylee was selected for the final roster draft in `research/sources.md`; this note is retained as validation context.
 
 ### Ross Simmonds - Manual Validation Note
 
@@ -218,7 +222,7 @@ Do not move Udi to `research/sources.md` until final roster selection is complet
 
 **Decision:** Strong candidate
 
-**Final roster note:** Do not move Ross to `research/sources.md` until final roster selection is complete.
+**Final roster note:** Ross was selected for the final roster draft in `research/sources.md`; this note is retained as validation context.
 
 ### Kyle Poyar - Manual Validation Note
 
@@ -239,7 +243,7 @@ Do not move Udi to `research/sources.md` until final roster selection is complet
 
 **Decision:** Strong candidate
 
-**Final roster note:** Do not move Kyle to `research/sources.md` until final roster selection is complete.
+**Final roster note:** Kyle was selected for the final roster draft in `research/sources.md`; this note is retained as validation context.
 
 ### Ty Magnin - Manual Validation Note
 
@@ -260,7 +264,7 @@ Do not move Udi to `research/sources.md` until final roster selection is complet
 
 **Decision:** Strong candidate
 
-**Final roster note:** Do not move Ty to `research/sources.md` until final roster selection is complete.
+**Final roster note:** Ty was selected for the final roster draft in `research/sources.md`; this note is retained as validation context.
 
 ### Ashley Faus - Manual Validation Note
 
@@ -281,7 +285,7 @@ Do not move Udi to `research/sources.md` until final roster selection is complet
 
 **Decision:** Strong candidate
 
-**Final roster note:** Do not move Ashley to `research/sources.md` until final roster selection is complete.
+**Final roster note:** Ashley was selected for the final roster draft in `research/sources.md`; this note is retained as validation context.
 
 ### Anthony Pierri - Manual Validation Note
 
@@ -302,7 +306,7 @@ Do not move Udi to `research/sources.md` until final roster selection is complet
 
 **Decision:** Strong candidate
 
-**Final roster note:** Do not move Anthony to `research/sources.md` until final roster selection is complete.
+**Final roster note:** Anthony was selected for the final roster draft in `research/sources.md`; this note is retained as validation context.
 
 ### Gaetano DiNardi - Manual Validation Note
 
@@ -323,7 +327,7 @@ Do not move Udi to `research/sources.md` until final roster selection is complet
 
 **Decision:** Strong candidate
 
-**Final roster note:** Do not move Gaetano to `research/sources.md` until final roster selection is complete.
+**Final roster note:** Gaetano was selected for the final roster draft in `research/sources.md`; this note is retained as validation context.
 
 ### Strong Backup Candidates
 
@@ -370,9 +374,10 @@ Only after manual validation should a candidate be promoted to `research/sources
 
 ## Candidate Tracking Table
 
+No additional open candidates are currently tracked.
+
 | Candidate Name | Role / Company | Why Considered | B2B SaaS Relevance | LinkedIn Activity Evidence | Source Links | Validation Status | Decision | Notes |
 |----------------|----------------|----------------|--------------------|----------------------------|--------------|-------------------|----------|-------|
-| _TBD_ | | | | | | Pending | | |
 
 ## Decision Criteria
 

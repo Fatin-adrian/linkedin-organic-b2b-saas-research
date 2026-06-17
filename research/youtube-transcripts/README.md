@@ -1,12 +1,16 @@
-# YouTube & Video Transcripts
+# Video & Podcast Evidence Notes
 
-Transcripts, summaries, and timestamped notes from video or podcast content by verified experts.
+Video and podcast evidence notes from the approved expert roster.
 
 ## Purpose
 
-Capture long-form teaching that complements LinkedIn posts - interviews, workshops, SaaS marketing talks.
+Capture source-level notes for video and podcast evidence that complements LinkedIn and external written sources.
 
-## Capture template
+## Current folder contents
+
+This folder contains evidence notes, not full transcripts. Do not treat these files as verbatim transcript captures.
+
+## Optional capture template
 
 ```markdown
 # Transcript / summary
@@ -46,7 +50,7 @@ Capture long-form teaching that complements LinkedIn posts - interviews, worksho
 
 ## Naming convention
 
-`{expert-slug}_{YYYY-MM-DD}_{video-slug}.md`
+`{expert-slug}-{source-slug}.md`
 
 ## Sources
 
