@@ -71,7 +71,7 @@ Important rules:
 | Ty Magnin | Strong B2B startup and founder-led LinkedIn strategy perspective. | Strong candidate | Continue manual validation before adding to final roster. |
 | Ashley Faus | Strong thought leadership and audience-centered LinkedIn strategy perspective. | Strong candidate | Continue manual validation before adding to final roster. |
 | Anthony Pierri | Strong B2B SaaS positioning and LinkedIn content framework perspective. | Strong candidate | Continue manual validation before adding to final roster. |
-| Gaetano DiNardi | Strong SaaS growth, topical authority, and content strategy perspective. | Validating | Verify SaaS relevance, LinkedIn activity, and playbook usefulness. |
+| Gaetano DiNardi | Strong SaaS growth, topical authority, and content strategy perspective. | Strong candidate | Continue manual validation before adding to final roster. |
 
 ### Amanda Natividad - Manual Validation Note
 
@@ -303,6 +303,27 @@ Do not move Udi to `research/sources.md` until final roster selection is complet
 **Decision:** Strong candidate
 
 **Final roster note:** Do not move Anthony to `research/sources.md` until final roster selection is complete.
+
+### Gaetano DiNardi - Manual Validation Note
+
+**Status:** Strong candidate
+
+**Current role/company:** Growth Advisor; AI SEO for B2B SaaS; publisher of Marketing Advice.
+
+**Why relevant:** Gaetano is relevant because his work focuses on B2B SaaS growth, demand generation, AI SEO/GEO, content visibility, and category clarity. His perspective is useful for B2B SaaS LinkedIn strategy because organic content should not only attract attention, but also help buyers understand the category, problem, and market context around the product.
+
+**Evidence captured:**
+
+- **Representative LinkedIn post:** "Nearly all of the SEO/GEO problems I am working on today are category misalignment and mismatch problems..."
+- **Source URL:** https://www.linkedin.com/posts/officialg_nearly-all-of-the-seogeo-problems-i-am-working-activity-7472752745125691392-nPQa
+- **External source:** Marketing Advice Substack About page
+- **Source URL:** https://marketingadvice.substack.com/about
+
+**Playbook usefulness:** Gaetano's content is useful for 100Hires because it highlights the importance of category clarity, content visibility, and problem-market alignment. For 100Hires, this can support a LinkedIn playbook where posts do more than share hiring tips; they help the market understand what kind of recruiting problem 100Hires solves, how it fits into existing hiring tool categories, and why hiring teams should care.
+
+**Decision:** Strong candidate
+
+**Final roster note:** Do not move Gaetano to `research/sources.md` until final roster selection is complete.
 
 ### Strong Backup Candidates
 
