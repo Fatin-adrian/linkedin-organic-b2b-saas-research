@@ -65,7 +65,7 @@ Important rules:
 | Amanda Natividad | Strong fit for zero-click content, LinkedIn algorithm thinking, and audience education. | Strong candidate | Continue manual validation before adding to final roster. |
 | Udi Ledergor | Strong B2B SaaS brand/category creation background through Gong. | Strong candidate | Continue manual validation before adding to final roster. |
 | Devin Reed | Strong B2B SaaS content operator with Gong and Clari background. | Strong candidate | Continue manual validation before adding to final roster. |
-| Kaylee Edmondson | Strong demand generation and B2B SaaS operator angle. | Validating | Verify current role, SaaS relevance, and LinkedIn activity. |
+| Kaylee Edmondson | Strong demand generation and B2B SaaS operator angle. | Strong candidate | Continue manual validation before adding to final roster. |
 | Ross Simmonds | Strong content distribution and organic growth perspective for B2B/SaaS. | Validating | Verify SaaS relevance, LinkedIn activity, and representative source. |
 | Kyle Poyar | Strong GTM and LinkedIn creator-distribution perspective. | Validating | Verify LinkedIn as acquisition channel evidence and source links. |
 | Ty Magnin | Strong B2B startup and founder-led LinkedIn strategy perspective. | Validating | Verify LinkedIn playbook source and recent activity. |
@@ -177,6 +177,27 @@ Do not move Udi to `research/sources.md` until final roster selection is complet
 **Decision:** Strong candidate
 
 **Final roster note:** Do not move Devin to `research/sources.md` until final roster selection is complete.
+
+### Kaylee Edmondson - Manual Validation Note
+
+**Status:** Strong candidate
+
+**Current role/company:** Fractional Demand Gen for B2B SaaS; founder/operator behind DemandLoops.
+
+**Why relevant:** Kaylee is relevant because her work focuses on demand generation, GTM systems, pipeline, marketing operations, and B2B SaaS growth. Her content is useful for understanding how B2B SaaS companies should build demand systems with strong context before scaling or automating them.
+
+**Evidence captured:**
+
+- **Representative LinkedIn post:** "This automate everything default is making teams slower, not faster"
+- **Source URL:** https://www.linkedin.com/posts/kaylee-edmondson_this-automate-everything-default-is-making-activity-7467175918432862208-v3oY
+- **External source:** DemandLoops Substack article, "Earn the right to automate"
+- **Source URL:** https://demandloops.substack.com/p/earn-the-right-to-automate
+
+**Playbook usefulness:** Kaylee's content is useful for 100Hires because it highlights the importance of understanding workflow context before automating growth or pipeline systems. For 100Hires, this can support LinkedIn content that educates founders, recruiters, and hiring managers about hiring workflow clarity, pipeline friction, candidate follow-up gaps, and why better systems should come before automation.
+
+**Decision:** Strong candidate
+
+**Final roster note:** Do not move Kaylee to `research/sources.md` until final roster selection is complete.
 
 ### Strong Backup Candidates
 
