@@ -66,7 +66,7 @@ Important rules:
 | Udi Ledergor | Strong B2B SaaS brand/category creation background through Gong. | Strong candidate | Continue manual validation before adding to final roster. |
 | Devin Reed | Strong B2B SaaS content operator with Gong and Clari background. | Strong candidate | Continue manual validation before adding to final roster. |
 | Kaylee Edmondson | Strong demand generation and B2B SaaS operator angle. | Strong candidate | Continue manual validation before adding to final roster. |
-| Ross Simmonds | Strong content distribution and organic growth perspective for B2B/SaaS. | Validating | Verify SaaS relevance, LinkedIn activity, and representative source. |
+| Ross Simmonds | Strong content distribution and organic growth perspective for B2B/SaaS. | Strong candidate | Continue manual validation before adding to final roster. |
 | Kyle Poyar | Strong GTM and LinkedIn creator-distribution perspective. | Validating | Verify LinkedIn as acquisition channel evidence and source links. |
 | Ty Magnin | Strong B2B startup and founder-led LinkedIn strategy perspective. | Validating | Verify LinkedIn playbook source and recent activity. |
 | Ashley Faus | Strong thought leadership and audience-centered LinkedIn strategy perspective. | Validating | Verify current role, LinkedIn activity, and thought leadership source. |
@@ -198,6 +198,27 @@ Do not move Udi to `research/sources.md` until final roster selection is complet
 **Decision:** Strong candidate
 
 **Final roster note:** Do not move Kaylee to `research/sources.md` until final roster selection is complete.
+
+### Ross Simmonds - Manual Validation Note
+
+**Status:** Strong candidate
+
+**Current role/company:** CEO at Foundation and Distribution.ai; B2B content marketing, distribution, AI, Reddit, growth, and SaaS.
+
+**Why relevant:** Ross is relevant because his work focuses on B2B content distribution, organic growth, storytelling, and channel optimization. While he is not a pure B2B SaaS operator like some other candidates, his content distribution perspective is useful for understanding how B2B SaaS companies can make LinkedIn content travel further instead of only publishing and hoping for reach.
+
+**Evidence captured:**
+
+- **Representative LinkedIn post:** "Research your audience and industry. Create content worth talking about. Distribute stories like wildfire. Optimize for each channel."
+- **Source URL:** https://www.linkedin.com/posts/rosssimmonds_research-your-audience-and-industry-create-activity-7472622763208511489-hLdY
+- **External source:** Foundation Inc article, "B2B Content Distribution Strategy and AI Visibility"
+- **Source URL:** https://foundationinc.co/lab/content-distribution-strategy/
+
+**Playbook usefulness:** Ross's content is useful for 100Hires because it shows that organic LinkedIn strategy should include distribution, repurposing, and channel-specific optimization. For 100Hires, this can support a playbook where LinkedIn posts are not treated as isolated updates, but as part of a wider content distribution system that educates hiring teams, builds brand visibility, and reaches B2B buyers across multiple discovery channels.
+
+**Decision:** Strong candidate
+
+**Final roster note:** Do not move Ross to `research/sources.md` until final roster selection is complete.
 
 ### Strong Backup Candidates
 
