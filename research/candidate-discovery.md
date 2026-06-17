@@ -64,7 +64,7 @@ Important rules:
 |----------------|----------------|----------------|--------------------------|
 | Amanda Natividad | Strong fit for zero-click content, LinkedIn algorithm thinking, and audience education. | Strong candidate | Continue manual validation before adding to final roster. |
 | Udi Ledergor | Strong B2B SaaS brand/category creation background through Gong. | Strong candidate | Continue manual validation before adding to final roster. |
-| Devin Reed | Strong B2B SaaS content operator with Gong and Clari background. | Validating | Verify current role, recent LinkedIn activity, and representative post. |
+| Devin Reed | Strong B2B SaaS content operator with Gong and Clari background. | Strong candidate | Continue manual validation before adding to final roster. |
 | Kaylee Edmondson | Strong demand generation and B2B SaaS operator angle. | Validating | Verify current role, SaaS relevance, and LinkedIn activity. |
 | Ross Simmonds | Strong content distribution and organic growth perspective for B2B/SaaS. | Validating | Verify SaaS relevance, LinkedIn activity, and representative source. |
 | Kyle Poyar | Strong GTM and LinkedIn creator-distribution perspective. | Validating | Verify LinkedIn as acquisition channel evidence and source links. |
@@ -156,6 +156,27 @@ Udi is a strong candidate because his Gong background, category creation experie
 **Final roster note:**
 
 Do not move Udi to `research/sources.md` until final roster selection is complete.
+
+### Devin Reed - Manual Validation Note
+
+**Status:** Strong candidate
+
+**Current role/company:** Founder / The Reeder; helps B2B marketers and executives build durable content systems.
+
+**Why relevant:** Devin is relevant because his work focuses on B2B SaaS content systems, trust-building, audience development, brand, and pipeline. His background includes building content engines for B2B companies such as Gong and Clari, and his current work through The Reeder is directly tied to durable content strategy for B2B tech companies.
+
+**Evidence captured:**
+
+- **Representative LinkedIn post:** "The LinkedIn templates I use to help B2B execs and marketers grow from zero"
+- **Source URL:** https://www.linkedin.com/posts/devinreed_the-linkedin-templates-i-use-to-help-b2b-activity-7467970033667858433-nn-g
+- **External source:** The Reeder official website
+- **Source URL:** https://thereeder.co/
+
+**Playbook usefulness:** Devin's content is useful for 100Hires because it shows how B2B SaaS companies can build repeatable LinkedIn content systems instead of posting randomly. His approach can help 100Hires create educational posts, trust-building content, executive/founder-led content, and practical LinkedIn templates that support reputation and pipeline over time.
+
+**Decision:** Strong candidate
+
+**Final roster note:** Do not move Devin to `research/sources.md` until final roster selection is complete.
 
 ### Strong Backup Candidates
 
