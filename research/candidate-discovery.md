@@ -67,7 +67,7 @@ Important rules:
 | Devin Reed | Strong B2B SaaS content operator with Gong and Clari background. | Strong candidate | Continue manual validation before adding to final roster. |
 | Kaylee Edmondson | Strong demand generation and B2B SaaS operator angle. | Strong candidate | Continue manual validation before adding to final roster. |
 | Ross Simmonds | Strong content distribution and organic growth perspective for B2B/SaaS. | Strong candidate | Continue manual validation before adding to final roster. |
-| Kyle Poyar | Strong GTM and LinkedIn creator-distribution perspective. | Validating | Verify LinkedIn as acquisition channel evidence and source links. |
+| Kyle Poyar | Strong GTM and LinkedIn creator-distribution perspective. | Strong candidate | Continue manual validation before adding to final roster. |
 | Ty Magnin | Strong B2B startup and founder-led LinkedIn strategy perspective. | Validating | Verify LinkedIn playbook source and recent activity. |
 | Ashley Faus | Strong thought leadership and audience-centered LinkedIn strategy perspective. | Validating | Verify current role, LinkedIn activity, and thought leadership source. |
 | Anthony Pierri | Strong B2B SaaS positioning and LinkedIn content framework perspective. | Validating | Verify representative post and YouTube/source evidence. |
@@ -219,6 +219,27 @@ Do not move Udi to `research/sources.md` until final roster selection is complet
 **Decision:** Strong candidate
 
 **Final roster note:** Do not move Ross to `research/sources.md` until final roster selection is complete.
+
+### Kyle Poyar - Manual Validation Note
+
+**Status:** Strong candidate
+
+**Current role/company:** Founder, Growth Unhinged; GTM & Monetization Newsletter.
+
+**Why relevant:** Kyle is relevant because his work focuses on B2B SaaS GTM strategy, pricing, monetization, ICP selection, growth, and newsletter-led distribution. His content is useful for understanding how B2B SaaS companies can turn GTM research and growth insights into educational content that builds authority with startup and scaleup audiences.
+
+**Evidence captured:**
+
+- **Representative LinkedIn post:** "Data from 1,043 companies: 70% of them still target the same customer they started with"
+- **Source URL:** https://www.linkedin.com/posts/kyle-poyar_data-from-1043-companies-70-of-them-still-activity-7472629768253968386-lsZk
+- **External source:** Growth Unhinged newsletter page
+- **Source URL:** https://www.growthunhinged.com/subscribe
+
+**Playbook usefulness:** Kyle's content is useful for 100Hires because it shows how research-driven GTM insights can become LinkedIn content that educates a B2B SaaS audience. For 100Hires, this can support posts about hiring ICPs, recruiting workflows, pipeline stages, hiring team segments, and how different customer types may need different hiring processes or product messaging.
+
+**Decision:** Strong candidate
+
+**Final roster note:** Do not move Kyle to `research/sources.md` until final roster selection is complete.
 
 ### Strong Backup Candidates
 
