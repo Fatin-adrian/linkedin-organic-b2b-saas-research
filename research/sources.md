@@ -21,7 +21,7 @@ Experts were selected based on:
 
 ## Final 10-Expert Roster Draft
 
-## Amanda Natividad
+### Amanda Natividad
 
 - **Role / Company:** Founder and Co-author, Zero Click Marketing | Chief Evangelist, SparkToro
 - **Why included:** Strong source for zero-click content, platform-native marketing, audience education, and trust-building.
@@ -30,9 +30,9 @@ Experts were selected based on:
 - **External evidence:** https://www.youtube.com/watch?v=halAVUDc5F8
 - **Playbook usefulness:** Helps 100Hires use LinkedIn as a trust-building and buyer-education channel instead of only pushing traffic or demo links.
 - **Status:** Approved for final roster draft
-- **Evidence status:** LinkedIn evidence captured. External evidence documented. Video/podcast evidence note captured. Evidence captured in research folders.
+- **Evidence status:** LinkedIn evidence captured in `research/linkedin-posts/`. External evidence documented in `research/other/`. Video/podcast evidence note captured in `research/youtube-transcripts/`.
 
-## Udi Ledergor
+### Udi Ledergor
 
 - **Role / Company:** Board Director & Trustee | Chief Evangelist & Former CMO, Gong | Category Creator & GTM Advisor | Bestselling Author
 - **Why included:** Strong source for B2B SaaS category creation, thought leadership, bold brand storytelling, and trust-building.
@@ -41,9 +41,9 @@ Experts were selected based on:
 - **External evidence:** https://open.spotify.com/episode/2cMxro716BvTlrcdAW2a62
 - **Playbook usefulness:** Helps 100Hires create LinkedIn content around real hiring problems, category POV, emotional storytelling, and market education.
 - **Status:** Approved for final roster draft
-- **Evidence status:** LinkedIn evidence captured. External evidence documented. Video/podcast evidence note captured. Evidence captured in research folders.
+- **Evidence status:** LinkedIn evidence captured in `research/linkedin-posts/`. External evidence documented in `research/other/`. Video/podcast evidence note captured in `research/youtube-transcripts/`.
 
-## Devin Reed
+### Devin Reed
 
 - **Role / Company:** Founder / The Reeder; helps B2B marketers and executives build durable content systems
 - **Why included:** Strong source for B2B SaaS content systems, trust-building, audience development, brand, and pipeline.
@@ -52,9 +52,9 @@ Experts were selected based on:
 - **External evidence:** https://thereeder.co
 - **Playbook usefulness:** Helps 100Hires build repeatable LinkedIn content systems instead of posting randomly.
 - **Status:** Approved for final roster draft
-- **Evidence status:** LinkedIn evidence captured. External evidence documented. Evidence captured in research folders.
+- **Evidence status:** LinkedIn evidence captured in `research/linkedin-posts/`. External evidence documented in `research/other/`.
 
-## Kaylee Edmondson
+### Kaylee Edmondson
 
 - **Role / Company:** Fractional Demand Gen for B2B SaaS; founder/operator behind DemandLoops
 - **Why included:** Strong source for B2B SaaS demand generation, GTM systems, pipeline, marketing operations, and automation context.
@@ -63,9 +63,9 @@ Experts were selected based on:
 - **External evidence:** https://demandloops.substack.com/p/earn-the-right-to-automate
 - **Playbook usefulness:** Helps 100Hires educate hiring teams about workflow clarity, pipeline friction, candidate follow-up gaps, and why better systems should come before automation.
 - **Status:** Approved for final roster draft
-- **Evidence status:** LinkedIn evidence captured. External evidence documented. Evidence captured in research folders.
+- **Evidence status:** LinkedIn evidence captured in `research/linkedin-posts/`. External evidence documented in `research/other/`.
 
-## Ross Simmonds
+### Ross Simmonds
 
 - **Role / Company:** CEO at Foundation and Distribution.ai; B2B content marketing, distribution, AI, Reddit, growth, and SaaS
 - **Why included:** Strong source for B2B content distribution, organic growth, storytelling, and channel optimization.
@@ -74,9 +74,9 @@ Experts were selected based on:
 - **External evidence:** https://foundationinc.co/lab/content-distribution-strategy/
 - **Playbook usefulness:** Helps 100Hires treat LinkedIn posts as part of a wider content distribution system, not isolated updates.
 - **Status:** Approved for final roster draft
-- **Evidence status:** LinkedIn evidence captured. External evidence documented. Evidence captured in research folders.
+- **Evidence status:** LinkedIn evidence captured in `research/linkedin-posts/`. External evidence documented in `research/other/`.
 
-## Kyle Poyar
+### Kyle Poyar
 
 - **Role / Company:** Founder, Growth Unhinged; GTM & Monetization Newsletter
 - **Why included:** Strong source for B2B SaaS GTM strategy, pricing, monetization, ICP selection, growth, and newsletter-led distribution.
@@ -85,9 +85,9 @@ Experts were selected based on:
 - **External evidence:** https://www.growthunhinged.com/subscribe
 - **Playbook usefulness:** Helps 100Hires turn research-driven GTM insights into educational LinkedIn content for startup and scaleup audiences.
 - **Status:** Approved for final roster draft
-- **Evidence status:** LinkedIn evidence captured. External evidence documented. Evidence captured in research folders.
+- **Evidence status:** LinkedIn evidence captured in `research/linkedin-posts/`. External evidence documented in `research/other/`.
 
-## Ty Magnin
+### Ty Magnin
 
 - **Role / Company:** CEO at Animalz; builds high impact content marketing programs
 - **Why included:** Strong source for LinkedIn thought leadership, scalable content programs, authority building, distribution, and measurement.
@@ -96,9 +96,9 @@ Experts were selected based on:
 - **External evidence:** https://www.animalz.co/services/linkedin-content
 - **Playbook usefulness:** Helps 100Hires connect founder-led or expert-led LinkedIn content with authority building, sales prospect engagement, distribution, and measurement.
 - **Status:** Approved for final roster draft
-- **Evidence status:** LinkedIn evidence captured. External evidence documented. Evidence captured in research folders.
+- **Evidence status:** LinkedIn evidence captured in `research/linkedin-posts/`. External evidence documented in `research/other/`.
 
-## Ashley Faus
+### Ashley Faus
 
 - **Role / Company:** Marketing Leader at Atlassian; Author of Human-Centered Marketing; Keynote Speaker; Stanford Instructor
 - **Why included:** Strong source for human-centered marketing, thought leadership, audience understanding, product marketing, positioning, and messaging.
@@ -107,9 +107,9 @@ Experts were selected based on:
 - **External evidence:** https://ashleyfaus.com
 - **Playbook usefulness:** Helps 100Hires create audience-centered LinkedIn thought leadership that builds trust and helps buyers understand hiring problems more deeply.
 - **Status:** Approved for final roster draft
-- **Evidence status:** LinkedIn evidence captured. External evidence documented. Evidence captured in research folders.
+- **Evidence status:** LinkedIn evidence captured in `research/linkedin-posts/`. External evidence documented in `research/other/`.
 
-## Anthony Pierri
+### Anthony Pierri
 
 - **Role / Company:** Co-founder of FletchPMM; B2B homepage positioning and product marketing consultant
 - **Why included:** Strong source for B2B software positioning, homepage messaging, ICP clarity, product marketing, and explaining products clearly.
@@ -118,9 +118,9 @@ Experts were selected based on:
 - **External evidence:** https://www.fletchpmm.com/
 - **Playbook usefulness:** Helps 100Hires make LinkedIn content clearer by explaining who the product is for, what problem it solves, and how it fits into familiar recruiting tool categories.
 - **Status:** Approved for final roster draft
-- **Evidence status:** LinkedIn evidence captured. External evidence documented. Evidence captured in research folders.
+- **Evidence status:** LinkedIn evidence captured in `research/linkedin-posts/`. External evidence documented in `research/other/`.
 
-## Gaetano DiNardi
+### Gaetano DiNardi
 
 - **Role / Company:** Growth Advisor; AI SEO for B2B SaaS; publisher of Marketing Advice
 - **Why included:** Strong source for B2B SaaS growth, demand generation, AI SEO/GEO, content visibility, and category clarity.
@@ -129,7 +129,7 @@ Experts were selected based on:
 - **External evidence:** https://marketingadvice.substack.com/about
 - **Playbook usefulness:** Helps 100Hires create LinkedIn content that improves category clarity, problem-market alignment, and buyer understanding.
 - **Status:** Approved for final roster draft
-- **Evidence status:** LinkedIn evidence captured. External evidence documented. Evidence captured in research folders.
+- **Evidence status:** LinkedIn evidence captured in `research/linkedin-posts/`. External evidence documented in `research/other/`.
 
 ## Evidence Organization
 
