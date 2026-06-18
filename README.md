@@ -41,6 +41,10 @@ The goal is to identify credible experts and extract practical patterns that can
 5. Video and podcast evidence notes
 6. Strategic insight synthesis
 
+## Tools and Workflow
+
+This research was organized using an AI-assisted workflow with Codex in Cursor, Git, and GitHub. Codex was used to help structure the repository, maintain Markdown files, organize research notes, and support iterative review. Git was used to commit and push changes progressively instead of submitting one large final commit.
+
 ## Repository Structure
 
 ```text
