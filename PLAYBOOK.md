@@ -33,3 +33,15 @@ One pillar per weekday:
 | Wed | Category POV & Positioning | "Is this an ATS, recruiting CRM, or hiring workflow layer?" | Udi Ledergor, Anthony Pierri, Gaetano DiNardi |
 | Thu | Practical Frameworks | "A simple framework for spotting hiring workflow gaps." | Devin Reed, Ashley Faus |
 | Fri | Trust & Proof | "What strong hiring systems do before the interview stage." | Amanda Natividad, Ashley Faus |
+
+## 5. Format & Cadence
+
+5x/week, one pillar per day. Default format: plain text — lowest production cost, matches the founder-voice guardrail below. Exception: Thursday's "Practical Frameworks" pillar uses a native document/carousel, since a checklist benefits from a saveable visual format. *(The repo has no direct evidence of which formats these 10 experts actually use — this is operational reasoning, not a sourced claim.)*
+
+## 6. Positioning & Voice Guardrails
+
+- Lead with clarity, not bold storytelling, until category understanding is established.
+- Content stays founder-authored, not agency-ghostwritten.
+- Default to zero-click, platform-native value; add an off-platform CTA only on posts that have already proven strong organic engagement.
+
+(These three rules resolve the three strongest expert disagreements found in research — full reasoning lives in "Where Experts Disagree," not repeated here.)
