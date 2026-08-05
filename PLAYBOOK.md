@@ -59,3 +59,20 @@ One pillar per weekday:
 ## 8. Measurement
 
 Track comments, saves/reposts, DMs started, and sales-team mentions — not just clicks, per Stage 2's own finding that trust signals matter more than click volume. Click-through only matters on the rare posts carrying an off-platform CTA. *(Gap: no benchmark exists yet for what "good" looks like in this specific space.)*
+
+## Where Experts Disagree
+
+### 1. Amanda Natividad vs. Kyle Poyar — platform-native vs. off-platform funnel
+- **Amanda recommends:** deliver value directly inside LinkedIn (zero-click, platform-native); don't force the audience to click out. *(Research-derived, reputation-based synthesis — [post](https://www.linkedin.com/posts/amandanat_how-would-you-start-a-marketing-strategy-share-7472780091450826752-j-O1/), cross-referenced with her "Zero Click Marketing" framing in `research/sources.md`)*
+- **Kyle recommends:** use LinkedIn to funnel readers toward an owned external asset. *(Research-derived, direct — his own captured evidence link is his newsletter subscribe page: [growthunhinged.com/subscribe](https://www.growthunhinged.com/subscribe), `research/other/kyle-poyar-growth-unhinged.md`)*
+- **Which side, and why:** Amanda's approach as default; Kyle's only on posts that already show strong organic traction. *(Judgment)* 100Hires' category is still unclear to buyers (Section 3), and asking for an external commitment before trust is earned is premature.
+
+### 2. Anthony Pierri vs. Udi Ledergor — plain clarity vs. bold storytelling
+- **Anthony recommends:** disciplined positioning clarity — the buyer should immediately understand who the product is for and what it solves. *(Research-derived, direct match — [post](https://www.linkedin.com/posts/anthonypierri_ive-helped-position-over-500-companies-activity-7472299420932329472-Ql-H) is literally about his positioning methodology)*
+- **Udi recommends:** bold, emotional, category-defining storytelling to stand out. *(Research-derived, reputation-based synthesis — [post](https://www.linkedin.com/posts/udiledergor_i-recently-joined-marcus-sherwin-on-notjustads-ugcPost-7472658089377226753-kkOV/) on category creation)*
+- **Which side, and why:** Anthony's clarity-first approach, for now. *(Judgment)* `research/insights.md` names 100Hires' category ambiguity as an open problem — bold storytelling without underlying clarity risks being memorable but not actionable. Boldness can layer in once clarity is established.
+
+### 3. Ty Magnin vs. Ashley Faus — agency-scaled production vs. human-centered authorship
+- **Ty recommends:** professionalize LinkedIn content through an agency/ghostwriting model to scale executive voice. *(Research-derived, direct — his evidence link is literally Animalz's paid LinkedIn content service page, `research/other/ty-magnin-animalz.md`)*
+- **Ashley recommends:** content should be human-centered and audience-specific. *(Research-derived, reputation-based synthesis — [Four Pillars of Thought Leadership](https://www.linkedin.com/pulse/four-pillars-thought-leadership-ashley-faus/); the article establishes her human-centered marketing philosophy, but doesn't explicitly address agency vs. in-house production — that specific contrast is drawn below, and it's mine, not hers.)*
+- **Which side, and why:** Leaning toward founder-authored, not agency-ghostwritten. *(Judgment — the "founder vs. agency" framing itself is my argument, not something Ashley's article states; her evidence only supports the general "human-centered, in-house" instinct, the leap to "founder-led beats agency" is my synthesis.)* 100Hires is small and budget-constrained; buyer trust in recruiting SaaS likely depends on hearing from an authentic operator. Also: Ty has a direct conflict of interest — recommending agency production is literally his own business model, which should discount how much weight his advice carries here. *(Judgment, explicit skepticism — also informs "Who I Would Not Recommend" below)*
