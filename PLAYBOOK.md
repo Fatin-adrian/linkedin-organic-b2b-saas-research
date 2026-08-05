@@ -17,3 +17,19 @@ Four principles, consolidated from the eight themes identified in Stage 2 resear
 **C. Systemize one channel before expanding to many.** A repeatable weekly system on LinkedIn alone beats sporadic posting spread across many channels for a small team. *(Devin Reed, [LinkedIn templates post](https://www.linkedin.com/posts/devinreed_the-linkedin-templates-i-use-to-help-b2b-activity-7467970033667858433-nn-g))*
 
 **D. Show the workflow before you claim the shortcut.** Automation or AI claims land credibly only once the audience sees you understand the manual process, its handoffs, and where it breaks. *(Kaylee Edmondson, [Earn the Right to Automate](https://demandloops.substack.com/p/earn-the-right-to-automate))*
+
+## 3. Audience
+
+Primary persona (working assumption, not yet validated against real 100Hires data): founders / hiring generalists at early-stage, small B2B SaaS companies. Recruiter and hiring-manager personas are acknowledged but deprioritized for now — running multiple persona tracks at once isn't sustainable for a small team (see "What I Rejected and Why").
+
+## 4. Content Pillars
+
+One pillar per weekday:
+
+| Day | Pillar | Sample Angle | Source |
+|---|---|---|---|
+| Mon | Workflow & Pipeline Clarity | "Most hiring problems are workflow problems before they're tool problems." | Amanda Natividad, Kaylee Edmondson |
+| Tue | Productivity & Smart Automation | "Earn the right to automate your hiring process." | Kaylee Edmondson |
+| Wed | Category POV & Positioning | "Is this an ATS, recruiting CRM, or hiring workflow layer?" | Udi Ledergor, Anthony Pierri, Gaetano DiNardi |
+| Thu | Practical Frameworks | "A simple framework for spotting hiring workflow gaps." | Devin Reed, Ashley Faus |
+| Fri | Trust & Proof | "What strong hiring systems do before the interview stage." | Amanda Natividad, Ashley Faus |
