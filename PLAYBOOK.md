@@ -45,3 +45,17 @@ One pillar per weekday:
 - Default to zero-click, platform-native value; add an off-platform CTA only on posts that have already proven strong organic engagement.
 
 (These three rules resolve the three strongest expert disagreements found in research — full reasoning lives in "Where Experts Disagree," not repeated here.)
+
+## 7. Workflow
+
+1. Source the idea from a real hiring pain point (sales objection, support conversation, or one of the 5 pillars).
+2. Draft in the founder's own voice.
+3. Recruiter-in-the-loop check — a practicing recruiter or ops person sanity-checks the post before publish (see "My Original Idea").
+4. Citation/fact check pass.
+5. Publish natively.
+6. Track engagement (see Measurement).
+7. Weekly retro: what resonated feeds next week's angle choices.
+
+## 8. Measurement
+
+Track comments, saves/reposts, DMs started, and sales-team mentions — not just clicks, per Stage 2's own finding that trust signals matter more than click volume. Click-through only matters on the rare posts carrying an off-platform CTA. *(Gap: no benchmark exists yet for what "good" looks like in this specific space.)*
