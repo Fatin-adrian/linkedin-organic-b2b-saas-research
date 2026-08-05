@@ -76,3 +76,17 @@ Track comments, saves/reposts, DMs started, and sales-team mentions — not just
 - **Ty recommends:** professionalize LinkedIn content through an agency/ghostwriting model to scale executive voice. *(Research-derived, direct — his evidence link is literally Animalz's paid LinkedIn content service page, `research/other/ty-magnin-animalz.md`)*
 - **Ashley recommends:** content should be human-centered and audience-specific. *(Research-derived, reputation-based synthesis — [Four Pillars of Thought Leadership](https://www.linkedin.com/pulse/four-pillars-thought-leadership-ashley-faus/); the article establishes her human-centered marketing philosophy, but doesn't explicitly address agency vs. in-house production — that specific contrast is drawn below, and it's mine, not hers.)*
 - **Which side, and why:** Leaning toward founder-authored, not agency-ghostwritten. *(Judgment — the "founder vs. agency" framing itself is my argument, not something Ashley's article states; her evidence only supports the general "human-centered, in-house" instinct, the leap to "founder-led beats agency" is my synthesis.)* 100Hires is small and budget-constrained; buyer trust in recruiting SaaS likely depends on hearing from an authentic operator. Also: Ty has a direct conflict of interest — recommending agency production is literally his own business model, which should discount how much weight his advice carries here. *(Judgment, explicit skepticism — also informs "Who I Would Not Recommend" below)*
+
+## What I Rejected and Why
+
+**1. AI SEO/GEO content strategy** (from Gaetano DiNardi). *(Research-derived: his listed focus is "Growth Advisor; AI SEO for B2B SaaS," `research/sources.md`)* Rejected because it's a different discipline and toolset — search/AI visibility, not LinkedIn organic engagement — and would dilute a small team's focus. Out of scope per Section 1. *(Judgment)*
+
+**2. Multi-channel distribution / repurposing across platforms** (from Ross Simmonds). *(Research-derived: "Distribute stories like wildfire. Optimize for each channel," `research/linkedin-posts/ross-simmonds.md`; bio spans Reddit/Distribution.ai, `research/sources.md`)* Rejected because each channel has distinct norms requiring dedicated expertise (Reddit especially); a small team should master one channel before expanding. *(Judgment)*
+
+**3. Full 4-persona segmentation from day one** (from Stage 2's own synthesis). *(Research-derived: `research/insights.md`, Theme 4 — separate content tracks for founders, recruiters, hiring managers, startup operators)* Rejected as over-engineered for a small team; better to concentrate on one primary persona (Section 3) and expand once proven. *(Judgment)*
+
+## My Original Idea
+
+**Recruiter-in-the-loop authenticity check.** *(Judgment — original, not found in any of the 10 sources.)* Before any post publishes, someone who actually practices recruiting (a customer, or internal ops person) reviews it for accuracy and authenticity, not just marketing approval.
+
+**Why it could work:** the single largest gap across all 10 researched experts is that none of them are hiring/recruiting practitioners — they're general B2B SaaS/GTM marketers. *(Research-derived: confirmed by role descriptions in `research/sources.md` — none list recruiting/HR-tech practitioner experience.)* Content built purely on general marketing theory risks sounding off to a real recruiter audience. This step patches that blind spot operationally, without requiring new research.
