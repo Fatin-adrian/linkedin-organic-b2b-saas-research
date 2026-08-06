@@ -1,6 +1,6 @@
 # 100Hires LinkedIn Organic Content Playbook
 
-*Citation note: sources link to the original post/article by author name. Exact publish dates were not captured during Stage 2 evidence collection — verify dates from each link before treating this as final if precise dating matters for a specific claim.*
+*Citation note: sources link to the original post/article by author name. Publish dates (format DD.MM.YYYY) are included inline with each citation where the source is a dated post or article. Two supporting links (Kyle Poyar's newsletter subscribe page in Disagreement #1, and Ty Magnin's agency service page in Disagreement #3) are undated by nature, as they are not individual dated posts.*
 
 ## 1. Purpose & Scope
 
