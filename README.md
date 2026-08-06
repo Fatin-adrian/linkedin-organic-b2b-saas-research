@@ -48,6 +48,7 @@ This research was organized using an AI-assisted workflow with Codex in Cursor, 
 ## Repository Structure
 
 ```text
+PLAYBOOK.md
 research/
 |-- candidate-discovery.md
 |-- sources.md
@@ -57,6 +58,7 @@ research/
 `-- youtube-transcripts/
 ```
 
+* `PLAYBOOK.md` - the LinkedIn Organic Content Playbook and SOP for 100Hires, built from this research
 * `research/candidate-discovery.md` - working validation log for expert candidates
 * `research/sources.md` - final 10-expert roster draft
 * `research/insights.md` - synthesized strategy insights for 100Hires
@@ -108,8 +110,8 @@ The research synthesis identifies these themes:
 
 ## Status
 
-`Research organized - strategic synthesis complete - final playbook draft pending`
+`Research organized - strategic synthesis complete - playbook complete`
 
-## Next Step
+## Playbook
 
-The next step is to turn the research insights into a practical LinkedIn organic content playbook or content calendar for 100Hires.
+The research in this repository has been synthesized into `PLAYBOOK.md` (repo root) — a complete LinkedIn Organic Content Playbook for 100Hires covering strategic foundations, content pillars, workflow, measurement, expert disagreements, rejected ideas, an original idea, and honest limitations.
